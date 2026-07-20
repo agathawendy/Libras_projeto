@@ -1,0 +1,6 @@
+{
+  "name": "Tradutor de Libras",
+  "description": "Protótipo em tempo real para tradução do alfabeto de Libras (Língua Brasileira de Sinais) utilizando visão computacional e reconhecimento de gestos.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
